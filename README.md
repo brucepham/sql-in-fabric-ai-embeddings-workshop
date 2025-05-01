@@ -18,7 +18,7 @@ Key Learning Objectives:
 1. Creating embeddings for relational data with Azure OpenAI
 1. Create a set of GraphQL endpoints for AI Applications
 1. Create a PowerBI report with Copilot
-1. DevOps in Fabric (demo only)
+//1. DevOps in Fabric (demo only)
 
 ## Getting Started
 
